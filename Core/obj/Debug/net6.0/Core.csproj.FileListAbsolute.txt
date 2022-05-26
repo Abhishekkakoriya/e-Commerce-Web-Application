@@ -1,0 +1,24 @@
+C:\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.deps.json
+C:\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.dll
+C:\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.pdb
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.dll
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.pdb
+C:\Minor Project - 2\skinet\Core\obj\Debug\net6.0\ref\Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.deps.json
+D:\saved minor project-2\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\Core\bin\Debug\net6.0\Core.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\refint\Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\Core.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\Core\obj\Debug\net6.0\ref\Core.dll

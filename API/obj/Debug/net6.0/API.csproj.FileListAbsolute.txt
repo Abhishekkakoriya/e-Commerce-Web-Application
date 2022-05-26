@@ -1,0 +1,182 @@
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\appsettings.json
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.exe
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.deps.json
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.pdb
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.dll
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\refint\API.dll
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.pdb
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Minor Project - 2\skinet\API\obj\Debug\net6.0\ref\API.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Humanizer.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Core.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Infrastructure.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Infrastructure.pdb
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Core.pdb
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Minor Project - 2\skinet\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\Stripe.net.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\appsettings.Development.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\appsettings.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.exe
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.deps.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\API.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\AutoMapper.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Humanizer.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Stripe.net.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Core.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Infrastructure.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Infrastructure.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\API\bin\Debug\net6.0\Core.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\refint\API.dll
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.pdb
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\saved minor project-2\Minor Project - 2\skinet\API\obj\Debug\net6.0\ref\API.dll
